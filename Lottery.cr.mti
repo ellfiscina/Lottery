@@ -1,0 +1,69 @@
+{C:/Users/Ellen/Desktop/Nova pasta/lottery.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\lottery.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lottery
+
+Top level modules:
+	lottery
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/check_bet_t.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\check_bet_t.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module check_bet_t
+
+Top level modules:
+	check_bet_t
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/cash.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\cash.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cash
+
+Top level modules:
+	cash
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/bet.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\bet.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module bet
+
+Top level modules:
+	bet
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/check_bet.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\check_bet.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module check_bet
+
+Top level modules:
+	check_bet
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/lottery_test.v} {1 {vlog -work work -stats=none {C:\Users\Ellen\Desktop\Nova pasta\lottery_test.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lottery_test
+
+Top level modules:
+	lottery_test
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lottery_test
+
+Top level modules:
+	lottery_test
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/cash_t.v} {1 {vlog -work work -stats=none {C:/Users/Ellen/Desktop/Nova pasta/cash_t.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cash_t
+
+Top level modules:
+	cash_t
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/bet_t.v} {1 {vlog -work work -stats=none {C:/Users/Ellen/Desktop/Nova pasta/bet_t.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module bet_t
+
+Top level modules:
+	bet_t
+
+} {} {}} {C:/Users/Ellen/Desktop/Nova pasta/winning_number.v} {1 {vlog -work work -stats=none {C:/Users/Ellen/Desktop/Nova pasta/winning_number.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module winning_number
+
+Top level modules:
+	winning_number
+
+} {} {}}

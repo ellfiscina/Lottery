@@ -1,0 +1,113 @@
+module check_bet_t;
+
+	reg [4:0] W1, W2, W3, W4, B1, B2, B3, B4;
+	reg Set, reset, RD_ERR; 
+	reg [1:0] number;
+	wire [2:0] hit;
+	wire [9:0]sum;
+
+check_bet U1 (W1, W2, W3, W4, B1, B2, B3, B4, Set, reset, RD_ERR, number, hit, sum);
+
+initial begin
+	W1 = 4;
+	W2 = 21;
+	W3 = 22;
+	W4 = 30;
+	B1 = 0;
+	B2 = 0;
+	B3 = 0;
+	B4 = 0;
+	Set = 0;
+	reset = 0;
+	RD_ERR = 0;
+end
+
+initial begin
+	#2 reset = 1;
+	#1 B1 = 1;
+	#1 B2 = 3;
+	#1 B3 = 22;
+	#1 B4 = 26;
+	#1 number = 0;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 1;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 2;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 3;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit); 	
+	$display("Sum: %d", sum);
+	#2 B1 = 4;
+	#1 B2 = 21;
+	#1 B3 = 23;
+	#1 B4 = 30;
+	#1 number = 0;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 1;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 2;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 3;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit); 	
+	$display("Sum: %d", sum);	
+	#2 B1 = 21;
+	#1 B2 = 22;
+	#1 B3 = 23;
+	#1 B4 = 24;
+	#1 number = 0;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 1;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 2;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 3;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit); 	
+	$display("Sum: %d", sum);	
+	#2 B1 = 4;
+	#1 B2 = 28;
+	#1 B3 = 29;
+	#1 B4 = 31;
+	#1 number = 0;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 1;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 2;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit);
+	#1 number = 3;
+	#1 Set = 1;
+	#1 Set = 0;
+$display("Hit:%d", hit); 	
+	$display("Sum: %d", sum);	
+end
+
+endmodule

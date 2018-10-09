@@ -1,0 +1,190 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ellen/Documents/Computação/1º semestre - UL/ASICS 1/Project
+vbet
+!s110 1448619574
+!i10b 1
+!s100 Y2I[zC0?[8F@6P3?YbB^>1
+IbUOB`H^VS8QZf^Z6@okPI2
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/Users/Ellen/Desktop/Nova pasta
+w1448619570
+8C:\Users\Ellen\Desktop\Nova pasta\bet.v
+FC:\Users\Ellen\Desktop\Nova pasta\bet.v
+L0 3
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1448619574.132000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\bet.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\bet.v|
+!i113 1
+Z3 o-work work
+vbet_t
+!s110 1448619541
+!i10b 1
+!s100 6]cgS]@ZkVl@cN=Ycm<7V0
+I>dSea;CG6i^?4SILEa7ii1
+R0
+R1
+w1448537230
+8C:/Users/Ellen/Desktop/Nova pasta/bet_t.v
+FC:/Users/Ellen/Desktop/Nova pasta/bet_t.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1448619541.592000
+!s107 C:/Users/Ellen/Desktop/Nova pasta/bet_t.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ellen/Desktop/Nova pasta/bet_t.v|
+!i113 1
+R3
+vcash
+Z4 !s110 1448619542
+!i10b 1
+!s100 A@A3L3WYQbOX2i5K7<e9B3
+I;=IAi0Rj7SzJ6IH`Jlh391
+R0
+R1
+w1448537249
+8C:\Users\Ellen\Desktop\Nova pasta\cash.v
+FC:\Users\Ellen\Desktop\Nova pasta\cash.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1448619542.234000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\cash.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\cash.v|
+!i113 1
+R3
+vcash_t
+R4
+!i10b 1
+!s100 U?d7gkTJH_[j:fbCK8nQ`1
+I<Z6bma]D_DiAJ4kHdB1;:0
+R0
+R1
+w1448537255
+8C:/Users/Ellen/Desktop/Nova pasta/cash_t.v
+FC:/Users/Ellen/Desktop/Nova pasta/cash_t.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1448619542.752000
+!s107 C:/Users/Ellen/Desktop/Nova pasta/cash_t.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ellen/Desktop/Nova pasta/cash_t.v|
+!i113 1
+R3
+vcheck_bet
+!s110 1448619543
+!i10b 1
+!s100 >`bi:lP[VMHd_lGzOXj?B1
+IO4L6<_Y6^^>Uoh;mPGJ7z2
+R0
+R1
+w1448619415
+8C:\Users\Ellen\Desktop\Nova pasta\check_bet.v
+FC:\Users\Ellen\Desktop\Nova pasta\check_bet.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1448619543.314000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\check_bet.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\check_bet.v|
+!i113 1
+R3
+vcheck_bet_t
+Z5 !s110 1448619544
+!i10b 1
+!s100 knQORR`2BamOI6JKOdgf;2
+IBCCcNzHVH=^6=c@M^YTaS2
+R0
+R1
+w1448537243
+8C:\Users\Ellen\Desktop\Nova pasta\check_bet_t.v
+FC:\Users\Ellen\Desktop\Nova pasta\check_bet_t.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1448619544.108000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\check_bet_t.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\check_bet_t.v|
+!i113 1
+R3
+vlottery
+R5
+!i10b 1
+!s100 ?=_BOG;8ePCM[O?[dCkel3
+I2jnK3<h6?<]mQS]@l1le@1
+R0
+R1
+w1448619535
+8C:\Users\Ellen\Desktop\Nova pasta\lottery.v
+FC:\Users\Ellen\Desktop\Nova pasta\lottery.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1448619544.661000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\lottery.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\lottery.v|
+!i113 1
+R3
+vlottery_test
+!s110 1448619639
+!i10b 1
+!s100 QjAI`SAUBhW7]No?SG94b3
+IYi?:ol4ifK;PFWc5nETFO0
+R0
+R1
+w1448619634
+8C:\Users\Ellen\Desktop\Nova pasta\lottery_test.v
+FC:\Users\Ellen\Desktop\Nova pasta\lottery_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1448619639.021000
+!s107 C:\Users\Ellen\Desktop\Nova pasta\lottery_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ellen\Desktop\Nova pasta\lottery_test.v|
+!i113 1
+R3
+vwinning_number
+!s110 1448619540
+!i10b 1
+!s100 LVc=BG?F6e7Z6ABBkZMmE0
+IdJj<=Wn2WIH27jJX^J=P70
+R0
+R1
+w1448537217
+8C:/Users/Ellen/Desktop/Nova pasta/winning_number.v
+FC:/Users/Ellen/Desktop/Nova pasta/winning_number.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1448619540.513000
+!s107 C:/Users/Ellen/Desktop/Nova pasta/winning_number.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ellen/Desktop/Nova pasta/winning_number.v|
+!i113 1
+R3
